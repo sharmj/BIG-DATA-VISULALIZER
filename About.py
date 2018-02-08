@@ -91,10 +91,10 @@ class Ui_aboutDialog(object):
 
     def retranslateUi(self, Dialog):
         Dialog.setWindowTitle(_translate("Dialog", "Dialog", None))
-        self.label_3.setText(_translate("Dialog", "Riyaz Ul Haque", None))
-        self.label_4.setText(_translate("Dialog", "YooGle Sharma", None))
-        self.label_5.setText(_translate("Dialog", "riyazulhaque922@gmail.com", None))
-        self.label_6.setText(_translate("Dialog", "yooglesharma@gmail.com", None))
+        self.label_3.setText(_translate("Dialog", "Rajveer", None))
+        
+        self.label_5.setText(_translate("Dialog", "op5476tm@gmail.com", None))
+       
         self.label_8.setText(_translate("Dialog", "Big Data Visualizer", None))
         self.label_7.setText(_translate("Dialog", "Programming Language : PYTHON 2.7", None))
         self.label_9.setText(_translate("Dialog", "GUI : pyQt Designer 4", None))
