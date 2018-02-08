@@ -42,7 +42,7 @@
     <string/>
    </property>
    <property name="pixmap">
-    <pixmap>YooGle.jpg</pixmap>
+  
    </property>
   </widget>
   <widget class="QLabel" name="label_3">
@@ -61,7 +61,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Riyaz Ul Haque</string>
+    <string>Rajveer</string>
    </property>
   </widget>
   <widget class="QLabel" name="label_4">
